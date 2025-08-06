@@ -451,13 +451,14 @@ footer {
   position: fixed;
   bottom: 30px;
   right: 20px;
-  background-color: #4CAF50;
+  background-color: #4c6baf;
   color: white;
-  padding: 10px 15px;
-  border-radius: 5px;
+  padding: 12px 20px;
+  font-size: 1rem;
+  border-radius: 50px;
   text-decoration: none;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  display: none; /* We’ll fix this next */
-  z-index: 999;
+  z-index: 1000;
 }
+
+
  
